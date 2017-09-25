@@ -1,9 +1,4 @@
 <mjml>
-  <mj-header>
-    <mj-style>
-    
-    </mj-style>
-  </mj-header>
   <mj-body>
     <mj-container>
       <!-- imagen top -->
@@ -19,7 +14,8 @@
           <mj-text align="center" color="#FFCB00" font-family="Arial" font-weight="700" font-size="24" padding-top="50">¿Qué es un programa de especialización?</mj-text>
           <mj-text align="center" color="#FFF" font-family="Arial" font-weight="400" font-size="15" padding-bottom="10">Una formación especializada, breve y actualizada es clave en el desarrollo de una carrera profesional. Por esta razón, Clase Ejecutiva UC diseñó programas especializados en diversas áreas que le entregarán una completa capacitación y le permitirá
             a corto plazo obtener las herramientas y conocimientos necesarios para acceder a nuevas áreas laborales.</mj-text>
-          <mj-button font-family="Arial" background-color="#ffcb00" color="#1f3e76" font-weight="700" padding-bottom="50">Más información</mj-button>
+            <mj-image href="http://claseejecutiva.com.pe/CE-peru/site/programas-de-especializacion/?_mcp_ltm&a0d1a000008twmx" src="http://webit.cl/ce/mailing/img-em1/btn-mas-info.png" padding-bottom="50" width="193"></mj-image>
+
         </mj-column>
       </mj-section>
       
@@ -35,7 +31,8 @@
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa1.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
           <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en administración de proyectos de construcción.</mj-text>
-          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+          <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-administracion-proyectos-construccion/"
+          background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
       </mj-section>
       
@@ -44,7 +41,8 @@
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa2.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
           <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Dirección de organizaciones centradas en las  personas.</mj-text>
-          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+          <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-direccion-organizaciones-centradas-las-personas/"
+          background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
       </mj-section>
       
@@ -54,7 +52,8 @@
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa3.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
           <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Finanzas aplicadas.</mj-text>
-          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+          <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-finanzas-aplicadas/"
+          background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
       </mj-section>
       
@@ -65,7 +64,8 @@
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa4.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
           <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en herramientas de marketing analítico.</mj-text>
-          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+          <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-herramientas-marketing-analitico/"
+          background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
       </mj-section>
       
@@ -75,7 +75,8 @@
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa5.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
           <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Innovación en la experiencia del cliente.</mj-text>
-          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+          <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-innovacion-la-experiencia-del-cliente/"
+          background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
       </mj-section>
       
@@ -85,14 +86,15 @@
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa6.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
           <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de Especialización en Conocimientos Claves de la Industria Minera.</mj-text>
-          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+          <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-conocimientos-claves-la-industria-minera-chile/"
+          background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
       </mj-section>
       
       <!-- ver todos los programas  -->
       <mj-section>
         <mj-column>
-          <mj-button href="#" background-color="#1f3e76" color="#FFCB00" font-family="Arial" font-size="18" font-weight="400">Ver todos los Programas</mj-button>
+          <mj-image href="http://claseejecutiva.com.pe/CE-peru/site/programas-de-especializacion/?_mcp_ltm&a0d1a000008twmx" src="http://webit.cl/ce/mailing/img-em1/btn-ver-prog.png" padding-bottom="50" width="193"></mj-image>
         </mj-column>
       </mj-section>
       
@@ -137,10 +139,28 @@
         
       </mj-section>
       
-      <mj-section>
+      <mj-section  background-url="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/fondopie.jpg" background-size="cover">
         <mj-column>
-          <mj-divider border-color="#1f3e76" border-width="1px" border-style="solid" vertical-align="middle" padding-left="20" padding-right="20" padding-bottom="0" padding-top="0">
-          </mj-divider> 
+          <mj-group padding-top="25" padding-bottom="25" width="100%">
+            <mj-button href="#" font-family="Arial" color="#FFF" background-color="transparent" padding="0">www.claseejecutiva.com</mj-button>
+            <mj-button href="#" font-family="Arial" color="#FFF" background-color="transparent" padding="0">contacto@claseejecutiva.cl</mj-button>
+            <mj-text font-family="Arial" align="center" color="white">(+56) 2 2840 0800</mj-text>
+            <mj-text font-family="Arial" align="center" color="white">(+56) 9 6596 0488</mj-text>
+          </mj-group>
+          <mj-group align="center">
+            <mj-column>
+              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+            </mj-column><mj-column>
+              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+            </mj-column>
+            <mj-column>
+              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+            </mj-column>
+            
+          </mj-group>
         </mj-column>
       </mj-section>
     </mj-container>
