@@ -1,0 +1,148 @@
+<mjml>
+  <mj-header>
+    <mj-style>
+    
+    </mj-style>
+  </mj-header>
+  <mj-body>
+    <mj-container>
+      <!-- imagen top -->
+      <mj-section padding="0" background-color="#1f3e76">
+        <mj-column padding="0">
+          <mj-image padding="0" src="http://webit.cl/ce/mailing/img-em1/top-header-2.jpg"></mj-image>
+        </mj-column>
+      </mj-section>
+      
+      <!-- texto bajada imagen top -->
+      <mj-section padding="0">
+        <mj-column background-color="#1f3e76">
+          <mj-text align="center" color="#FFCB00" font-family="Arial" font-weight="700" font-size="24" padding-top="50">¿Qué es un programa de especialización?</mj-text>
+          <mj-text align="center" color="#FFF" font-family="Arial" font-weight="400" font-size="15" padding-bottom="10">Una formación especializada, breve y actualizada es clave en el desarrollo de una carrera profesional. Por esta razón, Clase Ejecutiva UC diseñó programas especializados en diversas áreas que le entregarán una completa capacitación y le permitirá
+            a corto plazo obtener las herramientas y conocimientos necesarios para acceder a nuevas áreas laborales.</mj-text>
+          <mj-button font-family="Arial" background-color="#ffcb00" color="#1f3e76" font-weight="700" padding-bottom="50">Más información</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      <!-- texto fondo amarillo -->
+      <mj-section padding="0" background-color="#FFCB00">
+        <mj-column>
+          <mj-text align="center" font-weight="700" padding="10%" font-size="18" font-family="Arial">Estos son los programas de Especialización que están dentro de la Promoción del 50% de descuento.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- programa 1 -->
+      <mj-section background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/programa1.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en administración de proyectos de construcción.</mj-text>
+          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      <!-- programa 2 -->
+      <mj-section background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/programa2.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Dirección de organizaciones centradas en las  personas.</mj-text>
+          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      
+      <!-- programa 3 -->
+      <mj-section background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/programa3.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Finanzas aplicadas.</mj-text>
+          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      
+      
+      <!-- programa 4 -->
+      <mj-section background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/programa4.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en herramientas de marketing analítico.</mj-text>
+          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      
+      <!-- programa 5 -->
+      <mj-section background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/programa5.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Innovación en la experiencia del cliente.</mj-text>
+          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      
+      <!-- programa 6 -->
+      <mj-section background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/programa6.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de Especialización en Conocimientos Claves de la Industria Minera.</mj-text>
+          <mj-button background-color="#f3f3f3" color="#1f3e76" font-family="Arial">Ver Programa</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      <!-- ver todos los programas  -->
+      <mj-section>
+        <mj-column>
+          <mj-button href="#" background-color="#1f3e76" color="#FFCB00" font-family="Arial" font-size="18" font-weight="400">Ver todos los Programas</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      <!-- secciones de metodologias -->
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="21" font-family="Arial" font-weight="700">Metodología 100% Online</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#FFF" padding="0">
+        <mj-column background-color="#FFF">
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_1.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
+          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+        </mj-column>
+        
+        <mj-column background-color="#FFF">
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_2.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
+          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+        </mj-column>
+        
+        <mj-column background-color="#FFF">
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_3.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
+          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+        </mj-column>
+
+      </mj-section>
+      <mj-section background-color="#FFF" padding-top="10">
+        <mj-column background-color="#FFF" width="33%">
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_4.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
+          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+        </mj-column>
+        
+        <mj-column background-color="#FFF" width="33%">
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_5.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
+          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+        </mj-column>
+        
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-divider border-color="#1f3e76" border-width="1px" border-style="solid" vertical-align="middle" padding-left="20" padding-right="20" padding-bottom="0" padding-top="0">
+          </mj-divider> 
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
