@@ -107,42 +107,50 @@
       <mj-section background-color="#FFF" padding="0">
         <mj-column background-color="#FFF">
           <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_1.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
-          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Aprendizaje Interactivo</mj-text>
+          <mj-text align="center" font-family="arial" font-size="12">Contamos con una plataforma interactiva que te permitirá participar de clases en vivo, foros y acceder a tus contenidos.</mj-text>
         </mj-column>
         
         <mj-column background-color="#FFF">
           <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_2.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
-          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Material de Estudio</mj-text>
+          <mj-text align="center" font-family="arial" font-size="12">Acceso en cualquier momento y en cualquier lugar a tus clases online, paper, videos y otros recursos.</mj-text>
+        </mj-column>
+        
+
+      
+        
+        </mj-section>
+        
+        <mj-section>
+          <mj-column background-color="#FFF">
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_3.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Clases en vivo</mj-text>
+          <mj-text align="center" font-family="arial" font-size="12">Cada curso está organizado en 8 clases online y una clase en vivo, transmitida vía streaming, realizada por nuestros destacados académicos.</mj-text>
         </mj-column>
         
         <mj-column background-color="#FFF">
-          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_3.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
-          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_5.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Evaluación en línea</mj-text>
+          <mj-text align="center" font-family="arial" font-size="12">Al final de cada curso tendrás una evaluación de los contenidos estudiados. A través de nuestra plataforma, podrás acceder al examen y sus instrucciones para realizarlo.</mj-text>
         </mj-column>
-
-      </mj-section>
+        </mj-section>
       <mj-section background-color="#FFF" padding-top="10">
-        <mj-column background-color="#FFF" width="33%">
+        
+        <mj-column background-color="#FFF"  width="50%">
           <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_4.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
-          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
+          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Acompañamiento de tutores</mj-text>
+          <mj-text align="center" font-family="arial" font-size="12">Contarás con coordinadores que resolverán tus dudas académicas y administrativas.</mj-text>
         </mj-column>
         
-        <mj-column background-color="#FFF" width="33%">
-          <mj-image src="http://webit.cl/ce/mailing/img-em1/icono_5.png" alt="" align="center" border="none" vertical-align="top" width="80" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-family="Arial" font-size="14" font-weight="700">Plataforma moderna</mj-text>
-          <mj-text align="center" font-family="arial">Contamos con la última tecnología en educación a distancia.</mj-text>
-        </mj-column>
+        
         
       </mj-section>
       
       <mj-section  background-url="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/fondopie.jpg" background-size="cover">
         <mj-column>
           <mj-group padding-top="25" padding-bottom="25" width="100%">
-            <mj-button href="#" font-family="Arial" color="#FFF" background-color="transparent" padding="0">www.claseejecutiva.com</mj-button>
+            <mj-button href="http://www.claseejecutiva.com.pe" font-family="Arial" color="#FFF" background-color="transparent" padding="0">www.claseejecutiva.com.pe</mj-button>
             <mj-button href="#" font-family="Arial" color="#FFF" background-color="transparent" padding="0">contacto@claseejecutiva.cl</mj-button>
             <mj-text font-family="Arial" align="center" color="white">(+56) 2 2840 0800</mj-text>
             <mj-text font-family="Arial" align="center" color="white">(+56) 9 6596 0488</mj-text>
