@@ -30,7 +30,7 @@
       <mj-section background-color="#FFF" padding-top="0">
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa1.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en administración de proyectos de construcción.</mj-text>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en administración de proyectos de construcción</mj-text>
           <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-administracion-proyectos-construccion/"
           background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
@@ -40,7 +40,7 @@
       <mj-section background-color="#FFF" padding-top="0">
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa2.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Dirección de organizaciones centradas en las  personas.</mj-text>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Dirección de organizaciones centradas en las  personas</mj-text>
           <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-direccion-organizaciones-centradas-las-personas/"
           background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
@@ -51,7 +51,7 @@
       <mj-section background-color="#FFF" padding-top="0">
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa3.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Finanzas aplicadas.</mj-text>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Finanzas aplicadas</mj-text>
           <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-finanzas-aplicadas/"
           background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
@@ -63,7 +63,7 @@
       <mj-section background-color="#FFF" padding-top="0">
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa4.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en herramientas de marketing analítico.</mj-text>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en herramientas de marketing analítico</mj-text>
           <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-herramientas-marketing-analitico/"
           background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
@@ -74,7 +74,7 @@
       <mj-section background-color="#FFF" padding-top="0">
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa5.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Innovación en la experiencia del cliente.</mj-text>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de especialización en Innovación en la experiencia del cliente</mj-text>
           <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-innovacion-la-experiencia-del-cliente/"
           background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
@@ -85,7 +85,7 @@
       <mj-section background-color="#FFF" padding-top="0">
         <mj-column>
           <mj-image src="http://webit.cl/ce/mailing/img-em1/programa6.jpg" alt="" align="center" border="none" vertical-align="top" width="600" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0"></mj-image>
-          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de Especialización en Conocimientos Claves de la Industria Minera.</mj-text>
+          <mj-text align="center" font-size="18" color="#1f3e76" font-family="Arial">Programa de Especialización en Conocimientos Claves de la Industria Minera</mj-text>
           <mj-button href="http://claseejecutiva.com.pe/CE-peru/site/certificacion/programa-especializacion-conocimientos-claves-la-industria-minera-chile/"
           background-color="#FFCB00" border="1px solid #ffcb00" color="#1f3e76" font-family="Arial" padding-bottom="50">Ver Programa</mj-button>
         </mj-column>
