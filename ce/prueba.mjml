@@ -157,15 +157,15 @@
           </mj-group>
           <mj-group align="center">
             <mj-column>
-              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+              <mj-image  width="32" src="http://webit.cl/ce/mailing/img-em1/rs-facebook.png" href="https://www.facebook.com/claseejecutivauc" padding="0"></mj-image>
             </mj-column>
             <mj-column>
-              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+              <mj-image  width="32" src="http://webit.cl/ce/mailing/img-em1/rs-twitter.png" href="https://twitter.com/clase_ejecutiva" padding="0"></mj-image>
             </mj-column><mj-column>
-              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+              <mj-image  width="32" src="http://webit.cl/ce/mailing/img-em1/rs-linkedin.png" href="https://www.linkedin.com/company/5325180/" padding="0"></mj-image>
             </mj-column>
             <mj-column>
-              <mj-image src="http://mail.diplomadosuc.cl/html/diplomado/trc124/img/redes.png"></mj-image>
+              <mj-image  width="32" src="http://webit.cl/ce/mailing/img-em1/rs-youtube.png" href="https://www.youtube.com/channel/UCdp43voIz2ioyDYF-Xi3tWA" padding="0"></mj-image>
             </mj-column>
             
           </mj-group>
